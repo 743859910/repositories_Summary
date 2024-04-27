@@ -11,29 +11,29 @@
 
 | 🎁 项目 | ✨ 描述 | ⭐ Stars | 📚 Forks |
 | :--------: | :--------: | :---------: | :---------: |
-| [wlc743859910](https://github.com/wlc743859910/wlc743859910) | wlc743859910 | <img src="https://img.shields.io/github/stars/wlc743859910/wlc743859910" alt="GitHub stars"> | <img src="https://img.shields.io/github/forks/wlc743859910/wlc743859910" alt="GitHub Forks"> |
+| [743859910](https://github.com/743859910/743859910) | 743859910 | <img src="https://img.shields.io/github/stars/743859910/743859910" alt="GitHub stars"> | <img src="https://img.shields.io/github/forks/743859910/743859910" alt="GitHub Forks"> |
 |  |  |  |  |
 
 ---
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/wlc743859910/repositories_Summary/blob/master/img/1.webp">
+  <img src="https://raw.gitmirror.com/743859910/repositories_Summary/blob/master/img/1.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/wlc743859910/repositories_Summary/master/img/2.webp">
+  <img src="https://raw.gitmirror.com/743859910/repositories_Summary/master/img/2.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/wlc743859910/repositories_Summary/master/img/3.webp">
+  <img src="https://raw.gitmirror.com/743859910/repositories_Summary/master/img/3.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/wlc743859910/repositories_Summary/master/img/4.webp">
+  <img src="https://raw.gitmirror.com/743859910/repositories_Summary/master/img/4.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/wlc743859910/repositories_Summary/master/img/5.webp">
+  <img src="https://raw.gitmirror.com/743859910/repositories_Summary/master/img/5.webp">
 </p>
 
 ---
@@ -52,6 +52,6 @@
 
 MIT License
 
-Copyright © 2008-2024 Powered by wlc743859910. Inc. All Rights Reserved. 我只是你的过客工作室. 版权所有
+Copyright © 2008-2024 Powered by 743859910. Inc. All Rights Reserved. 我只是你的过客工作室. 版权所有
 
 ---
