@@ -11,7 +11,7 @@
 
 | 🎁 项目 | ✨ 描述 | ⭐ Stars | 📚 Forks |
 | :--------: | :--------: | :---------: | :---------: |
-| [743859910](https://github.com/743859910/743859910) | 743859910 | <img src="https://img.shields.io/github/stars/743859910/743859910" alt="GitHub stars"> | <img src="https://img.shields.io/github/forks/743859910/743859910" alt="GitHub Forks"> |
+|  |  |  |  |
 |  |  |  |  |
 
 ---
